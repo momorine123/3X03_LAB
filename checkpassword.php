@@ -10,3 +10,15 @@ function checkpassword($password) {
 		echo "Good Password";
 	}
 }
+	
+//$file = fopen("members.txt", "r");
+//$members = array();
+//
+//while (!feof($file)) {
+//   $members[] = fgets($file);
+//}
+//
+//fclose($file);
+	
+
+?>
